@@ -59,7 +59,8 @@ A 16-week intensive software development bootcamp, focusing on:
 
 **Deliveroo** (August 2016 - July 2018)   
 *Operations Manager (Aug '17 - Jul '18)*  
-Management of 4 separate teams across the Operations Support department, with each team responsible for the resolution of rider issues across UKIE (~30 Agents, 4 Team Leads and 2 Operations Associates). 
+- Management of 4 separate teams across the Operations Support department, with each team responsible for the resolution of rider issues across UKIE (~30 Agents, 4 Team Leads and 2 Operations Associates). 
+
 *Senior Operations Associate (Jun '17 - Jul '17)*  
 *Operations Associate (Aug '16 - May '17)*  
 
