@@ -2,14 +2,14 @@
 
 As someone who has played and studied music for most of their life, I have trained to be analytical, logical, diligent and creative. I feel that it is this combination of skills which has and will continue to provide the foundations upon which I hope to flourish as a software developer. 
 
-After graduating from The University of Oxford with a degree in Music, I had the opportunity to join an exciting and rapidly growing startup - Deliveroo. Over the course of two years, I received two promotions which ultimately led me to running a team of about 40 people as Operations Manager. Following this, I moved to LeSalon, a tech-beauty startup, where I built up my own team and worked closely with the CTO and developers. This exposure to tech really drove my desire to learn to code and join Makers Academy software development bootcamp. I am an ambitious <b> Full Stack Junior Developer </b> who wants to be a part of the building, testing and fixing process; no longer just a stakeholder.
+After graduating from The University of Oxford with a degree in Music, I had the opportunity to join an exciting and rapidly growing startup - Deliveroo. Over the course of two years, I received two promotions which ultimately led me to running a team of 40 people as Operations Manager. Following this, I moved to LeSalon, a tech-beauty startup, where I built up my own team and worked closely with the CTO and developers. This exposure to tech really drove my desire to learn to code and join Makers Academy software development bootcamp. I am an ambitious <b> Full Stack Junior Developer </b> who wants to be a part of the building, testing and fixing process; no longer just a stakeholder.
 
 <b>Tech Skills:</b> Ruby, JavaScript, HTML, CSS, Rails, jQuery, Sinatra, React, Bootstrap, PostgreSQL
 
 ## Skills
 #### Excellent Communication Skills 
 
-During my time as Operations Manager at Deliveroo, I presented weekly to my team of about 40 on KPIs, strategy and departmental and company updates. I also used this meeting as an opportunity to address any queries or concerns and drive engagement, often in creative ways that could be a bit embarassing... I once rapped 'Fresh Prince of Bel Air' in front of my team as a result of them exceededing their performance target for that week. At LeSalon, I was accountable for writing the monthly board reports on key operational KPIs and financial metrics to indicate business performance.
+During my time as Operations Manager at Deliveroo, I presented weekly to my team of 40 on KPIs, strategy and departmental and company updates. I also used this meeting as an opportunity to address any queries or concerns and drive engagement, often in creative ways that could be a bit embarassing... I once rapped 'Fresh Prince of Bel Air' in front of my team as a result of them exceededing their performance target for that week. At LeSalon, I was accountable for writing the monthly board reports on key operational KPIs and financial metrics to indicate business performance.
 
 #### Analytical
 
