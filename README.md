@@ -1,42 +1,27 @@
 ## Jess Marais 
 
-As someone who likes to undertake new challenges, I recently had a career change and joined a 16-week software development bootcamp at Makers Academy. I'm only at the start of my journey now, but hope, at the end of this experience, to be looking for a <b> Full Stack Junior Developer </b> role where I can consolidate and extend my skills. 
+As someone who has played and studied music for most of their life, I have trained to be analytical, logical, diligent and creative. I feel that it is this combination of skills which has and will continue to provide the foundations upon which I hope to flourish as a software developer. 
 
-After graduating from Oxford University with a degree in Music, I worked my way up to Operations Manager at Deliveroo over two years. I then took on the role of Head of Operations at LeSalon, a tech-beauty startup, where I built up my own team and worked closely with the CTO and developers. This exposure to tech really drove my desire to learn to code - I want to be a part of the building, testing and fixing, no longer just a stakeholder. 
+After graduating from Oxford University with a degree in Music, I had the opportunity to join an exciting and rapidly growing startup - Deliveroo. Over the course of two years, I received two promotions which ultimately led me to running a team of about 40 people as Operations Manager. Following this, I moved to LeSalon, a tech-beauty startup, where I built up my own team and worked closely with the CTO and developers. This exposure to tech really drove my desire to learn to code and join Makers Academy software development bootcamp. I am an ambitious <b> Full Stack Junior Developer </b> who wants to be a part of the building, testing and fixing process; no longer just a stakeholder.
+
+<b>Tech Skills:</b> Ruby, JavaScript, HTML, CSS, Rails, jQuery, Sinatra, React, Bootstrap, PostgreSQL
 
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-- Experience
-- Achievements
-- Evidence
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 #### Excellent Communication Skills 
 
-During my time as Operations Manager at Deliveroo, I presented weekly to my team of 40 on KPIs, strategy and departmental and company updates. I also used this meeting as an opportunity to run Q+A sessions with my team, addressing any queries or concerns they might have had. At LeSalon, I was accountable for writing the monthly board reports on key operational KPIs and financial metrics to indicate business performance.
-
-#### Calm and Focussed under Pressure 
-
-
+During my time as Operations Manager at Deliveroo, I presented weekly to my team of about 40 on KPIs, strategy and departmental and company updates. I also used this meeting as an opportunity to address any queries or concerns and drive engagement, often in creative ways that could be a bit embarassing... I once rapped 'Fresh Prince of Bel Air' in front of my team as a result of them exceededing their performance target for that week. At LeSalon, I was accountable for writing the monthly board reports on key operational KPIs and financial metrics to indicate business performance.
 
 #### Analytical
 
-
-
-#### Fast Learner 
-
 I impressed my manager, the CEO, at LeSalon with the speed at which I was able to pick up data analysis skills; in particular, using BI tools such as Chartio and SQL. I was responsible for aggregating user data to enable centralised reporting, as well as querying datasets to inform strategic decisions. Many of the reports that I built, particularly those focussed around company KPIs, were used across the business on a daily basis. 
+
+#### Thrives under Pressure 
+
+Despite my relative lack of seniority as Senior Operations Associate and then Operations Manager at Deliveroo, I was entrusted to oversee the strategy and execution of the manner in which my team dealt with rider issues. Cases often involved highly sensitive issues, such as those surrounding employment law, that had a significant impact on the affected individual. There were times when there was a remarkable amount of pressure and responsibility placed on me. However, I was able to stay calm and focussed and collaborated effectively with the comms and legal teams to ensure the appropriate response was always achieved. 
 
 #### Additional Skills 
 
-- Foreign languages: Intermediate French 
+- Agile, test driven development, pair programming 
 - Musical instruments: Voice, Piano and French Horn 
 
 ## Education
@@ -45,11 +30,12 @@ I impressed my manager, the CEO, at LeSalon with the speed at which I was able t
 
 A 16-week intensive software development bootcamp, focusing on: 
 
-- Agile methodologies and XP values 
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Agile methodologies
+- Ruby, JavaScript, HTML, CSS
+- Rails, React, jQuery, Sinatra 
+- RSpec, Jasmine, Capybara
 - Pair programming 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 
 #### University of Oxford, Pembroke College (October 2012 - July 2015) 
 
@@ -73,21 +59,17 @@ A 16-week intensive software development bootcamp, focusing on:
 
 **Deliveroo** (August 2016 - July 2018)   
 *Operations Manager (Aug '17 - Jul '18)*  
+Management of 4 separate teams across the Operations Support department, with each team responsible for the resolution of rider issues across UKIE (~30 Agents, 4 Team Leads and 2 Operations Associates). 
 *Senior Operations Associate (Jun '17 - Jul '17)*  
 *Operations Associate (Aug '16 - May '17)*  
 
 **Peppersmith** (April 2016 - July 2016)   
 *Operations Internship* 
 
-**Taylor Jones Partnership** (October 2015 - March 2016)   
-*Operations Manager* 
-
 ## Hobbies
 
-<b>Singing:</b> I have sung since I was very young and a member of presitgious choirs, such as the National Youth Choir of Great Britain. I now sing every week with the London International Gospel Choir. 
+<b>Singing:</b> I have sung in several different choirs to date, with one of my proudest musical achievements being part of the National Youth Choir of Great Britain. I now sing every week with the King's Place Choir. 
 
 <b>Baking:</b> I'm regularly baking for family and friends - banana and chocolate cake is my go-to! 
 
-<b>Exercising:</b> It's really important for me to exercise regularly. I especially enjoy playing netball, going for runs and doing a box-fit class every now and then. 
-
-<b>Travelling:</b> I enjoy visiting new places and discovering different cultures. My favourite recent trip was to Vietnam, in particular, the two-day trek I did through the tropical forests and caves of the Phong Nha National Park. 
+<b>Travelling:</b> I enjoy visiting new places and discovering different cultures. My favourite recent trip was to Vietnam, in particular, a two-day trek we did through the tropical forests and caves of the Phong Nha National Park. 
