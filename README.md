@@ -36,7 +36,7 @@ A 16-week intensive software development bootcamp, focusing on:
 
 - Agile methodologies
 - Ruby, JavaScript, HTML, CSS
-- Rails, React, jQuery, Sinatra 
+- Rails, jQuery, Sinatra 
 - RSpec, Jasmine, Capybara
 - Pair programming 
 - OOP, TDD, MVC
