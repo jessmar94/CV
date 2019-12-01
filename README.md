@@ -5,6 +5,10 @@ As someone who has played and studied music for most of their life, I have train
 After graduating from The University of Oxford with a degree in Music, I had the opportunity to join an exciting and rapidly growing startup - Deliveroo. Over the course of two years, I received two promotions which ultimately led me to running a team of 40 people as Operations Manager. Following this, I moved to LeSalon, a tech-beauty startup, where I built up my own team and worked closely with the CTO and developers. This exposure to tech really drove my desire to learn to code and join Makers Academy software development bootcamp. I am an ambitious <b> Full Stack Junior Developer </b> who wants to be a part of the building, testing and fixing process; no longer just a stakeholder.
 
 <b>Tech Skills:</b> Ruby, JavaScript, HTML, CSS, Rails, jQuery, Sinatra, React, Bootstrap, PostgreSQL
+## Selected Projects 
+| Project | Project type | Technologies | Timeframe | Description | 
+|---|---|---|---|---|
+| [Acebook](https://github.com/Yasmineral/acebook-short-ferret-midnight)  | Team project | Backend: Ruby on Rails; Frontend: JavaScript, Bootstrap; Database: Active Record, PostgreSQL | Two weeks | I worked as part of a team to to make a clone of Facebook. This was our first time using Rails but we all enjoyed the experience of seeing how quickly you could build a simple webapp with Rails. | 
 
 ## Skills
 #### Excellent Communication Skills 
