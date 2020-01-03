@@ -11,8 +11,7 @@ After graduating from The University of Oxford with a degree in Music, I had the
 | [SportsMatch](https://github.com/jessmar94/sportsmatch_api)  | Team project | Python, Flask, React.js, jQuery, SQLAlchemy, PostgreSQL | Two weeks | I worked as part of a team to produce a webapp that allows users to find fellow racket-sports players to arrange and play a game with. This project was a great challenge as we were using Python for the first time, however I'm really proud of what we were able to learn and produce in a short space of time. | 
 | [Acebook](https://github.com/jessmar94/acebook-short-ferret-midnight)  | Team project | Ruby on Rails, JavaScript, Bootstrap, Active Record, PostgreSQL | Two weeks | I worked as part of a team to make a clone of Facebook. This was our first time using Rails but we all enjoyed the experience of seeing how quickly you could build a simple webapp with Rails. | 
 | [Chitter](https://github.com/jessmar94/chitter-challenge)  | Individual project | Ruby, Sinatra, HTML, PostgreSQL | Two days | This Chitter project was a challenge to produce a clone of Twitter. This was a great challenge to cement learnings on Sinatra and Databases from the week.| 
-
-
+| [Bowling Scorecard](https://github.com/jessmar94/bowling-challenge)  | Individual project | JavaScript, Jasmine, Node.js | Four days | This project was a challenge to produce a bowling scorecard. It was a good opportunity to learn how to implement ESLint and run both the tests and the program from the terminal, as previously we'd learnt to do these both in the browser.| 
 
 ## Skills
 #### Excellent Communication Skills 
