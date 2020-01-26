@@ -16,7 +16,7 @@ After graduating from The University of Oxford with a degree in Music, I had the
 ## Skills
 #### Excellent Communication Skills 
 
-During my time as Operations Manager at Deliveroo, I presented weekly to my team of 40 on KPIs, strategy and departmental and company updates. I also used this meeting as an opportunity to address any queries or concerns and drive engagement, often in creative ways that could be a bit embarassing... I once rapped 'Fresh Prince of Bel Air' in front of my team as a result of them exceededing their performance target for that week. At LeSalon, I was accountable for writing the monthly board reports on key operational KPIs and financial metrics to indicate business performance.
+During my time as Operations Manager at Deliveroo, I presented weekly to my team of 40 on KPIs, strategy and departmental and company updates. I also used this meeting as an opportunity to address any queries or concerns and drive engagement, often in creative ways that could be a bit embarassing... I once rapped 'Fresh Prince of Bel Air' in front of my team as a result of them exceeding their performance target for that week. At LeSalon, I was accountable for writing the monthly board reports on key operational KPIs and financial metrics to indicate business performance.
 
 #### Analytical
 
